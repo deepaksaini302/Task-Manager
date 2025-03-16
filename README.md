@@ -34,5 +34,5 @@ An intuitive and interactive task manager built with **Jetpack Compose**, featur
 Open a terminal and run:  
 
 ```bash
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/deepaksaini302/Task-Manager.git
 cd task-manager
